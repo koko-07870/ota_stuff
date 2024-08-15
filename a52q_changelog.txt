@@ -1,0 +1,32 @@
+Update 30 July 2024 :
+[*]Synced with sources
+[*]Fixed adaptive refresh rate
+[*]Fixed Charging Control
+[*]Fixed LiveDisplay
+[*]Added "Force LTE carrier aggregation" button (source side)
+[*]Optimised status bar burn-in protection.
+
+Update 2 August 2024:
+[*]Updated trees.
+[*]Can be dirty flashed over last build.
+
+Update 11 Aug 2024 :
+[*]Sync with sources
+[*]August security patch
+[*]Now with updater ( Use the Pixelos recovery for updater to work properly )
+[*]Can be dirty flashed
+
+Update 15 Aug 2024 :
+Device side :
+[*]Fixed turn on screen on unplug
+[*]Allow more cached apps in background
+[*]Enable haptic text cursor
+[*]Fixed some refresh rate configs
+[*]Fixed Play integrity
+Source side :
+[*]Added new bootanimation from pixel 9 
+[*]Spoofed gms and more things to pixel 9 pro
+[*]Added pixel 9 pro wallpaper
+[*]New gemini
+[*]New weather app
+[*]Some more things..(I forgot)
