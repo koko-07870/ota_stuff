@@ -30,4 +30,4 @@ Source side :
 [*]New weather app
 [*]Some more things..(I forgot)
 
-NOTE : Use PixelOS recovery for ota update to work.
+NOTE : Use PixelOS recovery or TWRP for ota update to work.
