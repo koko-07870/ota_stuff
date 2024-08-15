@@ -18,7 +18,6 @@ Update 11 Aug 2024 :
 
 Update 15 Aug 2024 :
 Device side :
-[*]Fixed turn on screen on unplug
 [*]Allow more cached apps in background
 [*]Enable haptic text cursor
 [*]Fixed some refresh rate configs
