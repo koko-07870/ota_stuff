@@ -1,20 +1,14 @@
-Update 30 July 2024 :
-[*]Synced with sources
-[*]Fixed adaptive refresh rate
-[*]Fixed Charging Control
-[*]Fixed LiveDisplay
-[*]Added "Force LTE carrier aggregation" button (source side)
-[*]Optimised status bar burn-in protection.
+NOTE :
+-Use TWRP or PixelOS Recovery for ota update to work.
+-If after updating same update appears on the updater,ignore it, it's a bug.
 
-Update 2 August 2024:
-[*]Updated trees.
-[*]Can be dirty flashed over last build.
-
-Update 11 Aug 2024 :
-[*]Sync with sources
-[*]August security patch
-[*]Now with updater ( Use the Pixelos recovery for updater to work properly )
-[*]Can be dirty flashed
+Update 21 Aug 2024 :
+[*]Fixed PlayIntegrity *yet again*
+[*]Build Touch sensitivity features 
+[*]Sync With Sources
+[*]Fixed issues with secure window flags (Source)
+[*]Fixed minimum delay between an app's notification sounds feature (Source)
+[*]Further miscellaneous fixes and optimizations
 
 Update 15 Aug 2024 :
 Device side :
@@ -30,6 +24,20 @@ Source side :
 [*]New weather app
 [*]Some more things..(I forgot)
 
-NOTE :
--Use PixelOS recovery or TWRP for ota update to work.
--If after updating same update appears on the updater,ignore it, it's a bug.
+Update 11 Aug 2024 :
+[*]Sync with sources
+[*]August security patch
+[*]Now with updater ( Use the Pixelos recovery for updater to work properly )
+[*]Can be dirty flashed
+
+Update 2 August 2024:
+[*]Updated trees.
+[*]Can be dirty flashed over last build.
+
+Update 30 July 2024 :
+[*]Synced with sources
+[*]Fixed adaptive refresh rate
+[*]Fixed Charging Control
+[*]Fixed LiveDisplay
+[*]Added "Force LTE carrier aggregation" button (source side)
+[*]Optimised status bar burn-in protection.
