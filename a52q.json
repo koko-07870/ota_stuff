@@ -1,13 +1,13 @@
 {
   "error": false,
   "version": "fourteen",
-  "filename": "PixelOS_a52q-14.0-20240821-1950.zip",
-  "datetime": 1724272223,
-  "size": 2088738677,
-  "url": "https://sourceforge.net/projects/pixelos-a52/files/PixelOS_a52q-14.0-20240821-1950.zip/download",
-  "github_releases_url": "https://sourceforge.net/projects/pixelos-a52/files/PixelOS_a52q-14.0-20240821-1950.zip/download",
-  "filehash": "f5063e935f97620545644e78b3dd4059",
-  "id": "f5063e935f97620545644e78b3dd4059",
+  "filename": "PixelOS_a52q-14.0-20240822-0750.zip",
+  "datetime": 1724317701,
+  "size": 2096526814,
+  "url": "https://sourceforge.net/projects/pixelos-a52/files/PixelOS_a52q-14.0-20240822-0750.zip/download",
+  "github_releases_url": "https://sourceforge.net/projects/pixelos-a52/files/PixelOS_a52q-14.0-20240822-0750.zip/download",
+  "filehash": "012ff6140a0aa323c2e8d4c469052e3f",
+  "id": "012ff6140a0aa323c2e8d4c469052e3f",
   "maintainers": [
     {
       "main_maintainer": false,
