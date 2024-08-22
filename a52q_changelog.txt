@@ -2,6 +2,13 @@ NOTE :
 -Use TWRP or PixelOS Recovery for ota update to work.
 -If after updating same update appears on the updater,ignore it, it's a bug.
 
+Update 22 Aug 2024 : (hotfix update)
+[*]Fixed High touch sensitivity not working on yesterday's build
+[*]Fully enabled ambient display
+[*]Build Advanced Display from lineage
+[*]Build Samsung doze
+[*]Build Samsung dap
+
 Update 21 Aug 2024 :
 [*]Fixed PlayIntegrity *yet again*
 [*]Build Touch sensitivity features 
