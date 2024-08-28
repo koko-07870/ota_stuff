@@ -1,14 +1,24 @@
 NOTE :
--Use TWRP or PixelOS Recovery for ota update to work.
--If after updating same update appears on the updater,ignore it, it's a bug.
-
+• Use TWRP or PixelOS Recovery for ota update to work.
+• If after updating same update appears on the updater,ignore it, it's a bug.
+___________________________________________
+Update 28 Aug 2024 :
+• Sync with source
+• Fix occasional jitters on app open close animation
+• Optimised adaptive refresh rate
+• Disabled adaptive refresh rate on low brightness to reduce flickering
+• Changed vibration patterns
+• Optmised auto-brightness adjustment
+• Removed some unnecessary lineage parts
+• Nuked doze
+___________________________________________
 Update 22 Aug 2024 : (hotfix update)
 [*]Fixed High touch sensitivity not working on yesterday's build
 [*]Fully enabled ambient display
 [*]Build Advanced Display from lineage
 [*]Build Samsung doze
 [*]Build Samsung dap
-
+___________________________________________
 Update 21 Aug 2024 :
 [*]Fixed PlayIntegrity *yet again*
 [*]Build Touch sensitivity features 
@@ -16,7 +26,7 @@ Update 21 Aug 2024 :
 [*]Fixed issues with secure window flags (Source)
 [*]Fixed minimum delay between an app's notification sounds feature (Source)
 [*]Further miscellaneous fixes and optimizations
-
+___________________________________________
 Update 15 Aug 2024 :
 Device side :
 [*]Allow more cached apps in background
@@ -30,17 +40,17 @@ Source side :
 [*]New gemini
 [*]New weather app
 [*]Some more things..(I forgot)
-
+___________________________________________
 Update 11 Aug 2024 :
 [*]Sync with sources
 [*]August security patch
 [*]Now with updater ( Use the Pixelos recovery for updater to work properly )
 [*]Can be dirty flashed
-
+___________________________________________
 Update 2 August 2024:
 [*]Updated trees.
 [*]Can be dirty flashed over last build.
-
+___________________________________________
 Update 30 July 2024 :
 [*]Synced with sources
 [*]Fixed adaptive refresh rate
