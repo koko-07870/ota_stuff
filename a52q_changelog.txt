@@ -1,3 +1,7 @@
+PixelOS Changelog for A52
+Build Type: Monthly
+Maintainer: koko
+========================
 NOTE :
 • Use TWRP or PixelOS Recovery for ota update to work.
 ___________________________________________
