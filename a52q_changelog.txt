@@ -1,6 +1,5 @@
 NOTE :
 • Use TWRP or PixelOS Recovery for ota update to work.
-• If after updating same update appears on the updater,ignore it, it's a bug.
 ___________________________________________
 Update 28 Aug 2024 :
 • Sync with source
@@ -11,6 +10,7 @@ Update 28 Aug 2024 :
 • Optmised auto-brightness adjustment
 • Removed some unnecessary lineage parts
 • Nuked doze
+• Fixed the updater bug to show same build after updating.
 ___________________________________________
 Update 22 Aug 2024 : (hotfix update)
 [*]Fixed High touch sensitivity not working on yesterday's build
