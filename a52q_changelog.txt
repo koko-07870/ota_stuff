@@ -10,7 +10,7 @@ Update 28 Aug 2024 :
 • Optmised auto-brightness adjustment
 • Removed some unnecessary lineage parts
 • Nuked doze
-• Fixed the updater bug to show same build after updating.
+• Fixed the updater bug showing same build after updating.
 ___________________________________________
 Update 22 Aug 2024 : (hotfix update)
 [*]Fixed High touch sensitivity not working on yesterday's build
