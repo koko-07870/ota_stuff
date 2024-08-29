@@ -17,13 +17,10 @@ Update 28 Aug 2024 :
 • Fixed the updater bug showing same build after updating.
 ___________________________________________
 Update 22 Aug 2024 : (hotfix update)
-[*]Fixed High touch sensitivity not working on yesterday's build
 [*]Fully enabled ambient display
 [*]Build Advanced Display from lineage
 [*]Build Samsung doze
 [*]Build Samsung dap
-___________________________________________
-Update 21 Aug 2024 :
 [*]Fixed PlayIntegrity *yet again*
 [*]Build Touch sensitivity features 
 [*]Sync With Sources
