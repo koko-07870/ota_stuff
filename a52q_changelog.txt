@@ -5,6 +5,10 @@ Maintainer: koko
 NOTE :
 • Use TWRP or PixelOS Recovery for ota update to work.
 ___________________________________________
+Update 30 Aug :
+- This update is to fix a annoying bug on last build which was causing animations to jitter.
+- You may skip this if you are okay with last build.
+___________________________________________
 Update 28 Aug 2024 :
 • Sync with source
 • Fix occasional jitters on app open close animation
