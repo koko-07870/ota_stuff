@@ -19,8 +19,8 @@ source:
 - Changed default system sounds from aosp to pixel.
 ___________________________________________
 Update 4-sep-2024 :
+CLEAN FLASH MANDATORY!
 source:
-CLEAN FLASH MANDATORY
 - Merged September security patch
 - Added toggle to turn off fast charge in battery settings
 device:
