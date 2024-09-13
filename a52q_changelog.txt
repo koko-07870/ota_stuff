@@ -20,6 +20,7 @@ source:
 ___________________________________________
 Update 4-sep-2024 :
 source:
+CLEAN FLASH MANDATORY
 - Merged September security patch
 - Added toggle to turn off fast charge in battery settings
 device:
