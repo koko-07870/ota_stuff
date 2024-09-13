@@ -1,9 +1,19 @@
 PixelOS Changelog for A52
 Build Type: Monthly
 Maintainer: koko
-========================
-NOTE :
-• Use TWRP or PixelOS Recovery for ota update to work.
+==============================
+Update 13-sep-2024 :
+- Using ascendia as default kernel now
+- Dropped singletap (was not working anyway)
+- Disable backpressure prop
+- Force 60 Hz refresh rate on AOD
+- Fixed default hotspot ssid
+- Decreased launch boost to 3 sec
+- Improved signal reception
+- Fixed battery drain
+- Some more changes
+___________________________________________
+Update 4-sep-2024 :
 ___________________________________________
 Update 30 Aug :
 • Fixed the animation jitter bug. Please update to this version for better user experience.
