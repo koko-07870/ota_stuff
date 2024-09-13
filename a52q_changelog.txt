@@ -14,7 +14,7 @@ device:
 - Fixed battery drain due to statsd
 - Some more changes
 source:
-- Changed default system sounds from pixel.
+- Changed default system sounds from aosp to pixel.
 ___________________________________________
 Update 4-sep-2024 :
 source:
