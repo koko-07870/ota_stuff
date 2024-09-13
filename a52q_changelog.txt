@@ -3,6 +3,7 @@ Build Type: Monthly
 Maintainer: koko
 ===================
 Update 13-sep-2024 :
+device:
 - Using ascendia as default kernel now
 - Dropped singletap (was not working anyway)
 - Disable backpressure prop
@@ -12,6 +13,8 @@ Update 13-sep-2024 :
 - Improved signal reception
 - Fixed battery drain due to statsd
 - Some more changes
+source:
+- Changed default system sounds from pixel.
 ___________________________________________
 Update 4-sep-2024 :
 source:
