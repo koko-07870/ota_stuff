@@ -12,6 +12,7 @@ device:
 - Decreased launch boost to 3 sec
 - Improved signal reception
 - rework powerhint
+- improved idle drain
 - Fixed battery drain due to statsd
 - Some more changes
 source:
