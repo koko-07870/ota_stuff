@@ -11,6 +11,7 @@ device:
 - Fixed default hotspot ssid
 - Decreased launch boost to 3 sec
 - Improved signal reception
+- rework powerhint
 - Fixed battery drain due to statsd
 - Some more changes
 source:
