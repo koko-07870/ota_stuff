@@ -1,14 +1,14 @@
 {
   "error": false,
   "version": "fourteen",
-  "filename": "",
-  "datetime": 12345678,
+  "filename": "PixelOS_a52q-14.0-20240913-0951.zip",
+  "datetime": 1726221038,
   "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-  "size": ,
-  "url": "",
-  "github_releases_url": "",
-  "filehash": "",
-  "id": "",
+  "size": 2275202668,
+  "url": "https://sourceforge.net/projects/pixelos-a52/files/PixelOS_a52q-14.0-20240913-0951.zip/download",
+  "github_releases_url": "https://sourceforge.net/projects/pixelos-a52/files/PixelOS_a52q-14.0-20240913-0951.zip/download",
+  "filehash": "cb5c48a25046fb4833f39a29bf463595",
+  "id": "cb5c48a25046fb4833f39a29bf463595",
   "maintainers": [
     {
       "main_maintainer": false,
@@ -17,6 +17,5 @@
     }
   ],
   "news_url": "https://t.me/posa52q",
-  "donate_url": null,
   "forum_url": "https://xdaforums.com/t/rom-14-unofficial-stable-pixelos-for-galaxy-a52-4g.4681912/"
 }  
