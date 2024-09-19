@@ -3,7 +3,7 @@ Build Type: Monthly
 Maintainer: koko
 ===================
 
-====20 sept 2024====
+====19 sept 2024====
 -Added ViPER Fx
 -Disabled SF client composition cache
 -Disabled Adaptive connectivity preference
