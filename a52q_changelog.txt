@@ -29,6 +29,7 @@ Maintainer: koko
 -slightly reduced the fp sensor icon size
 -fixed possible QS lag when pulldown
 -Enabled speed-profile services
+-sync with sources
 ___________________________________________
 Update 13-sep-2024 :
 device:
