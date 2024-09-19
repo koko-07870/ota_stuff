@@ -2,6 +2,34 @@ PixelOS Changelog for A52
 Build Type: Monthly
 Maintainer: koko
 ===================
+
+====20 sept 2024====
+-Added ViPER Fx
+-Disabled SF client composition cache
+-Disabled Adaptive connectivity preference
+-Use fuse passthrough by default
+-set debug.sfunsignaled to 0 
+-disabled continuous tracing 
+-Removed some unused props
+-Enable zygote critical window
+-set some debugging restrictions 
+-Enable lz4 compression for ramdisk
+-Use dex2oat64
+-Drop some debugfs stuff
+-Optimised native executables for cortex-a55 cpu
+-switch to dot-product cpu variant
+-avoid delay for vblank disable from DRM
+-switch hw composer to foreground cpu set
+-disable proximity usage during doze
+-Fixed some audio distortion echo with apps like telegram
+-Disabled kpti
+-Disabled skia tracing
+-refined powerhint
+-Fix some auto brightness timings
+-slightly reduced the fp sensor icon size
+-fixed possible QS lag when pulldown
+-Enabled speed-profile services
+___________________________________________
 Update 13-sep-2024 :
 device:
 - Using ascendia as default kernel now
