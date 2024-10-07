@@ -3,6 +3,18 @@ Build Type: Monthly
 Maintainer: koko
 ===================
 
+====08 oct 2024====
+- Sync with source
+-Switch to "Spark kernel" (Fully upstreamed to 4.14.352-openela latest release)
+- Enabled wallpaper zoom-in/out effects again
+- Increased brightness threshold for automatic refresh rate switching
+- Removed some unused things that consumes large amount of things and only for testing purposes
+- Fixed the issue where the enrolled fingerprints are lost after switching to guest user
+- App launch improvements
+- re-enabled kpti
+- Set z-ram size to 3 GB
+- Fixed Play Integrity
+
 ====19 sept 2024====
 -Added ViPER Fx
 -Disabled SF client composition cache
