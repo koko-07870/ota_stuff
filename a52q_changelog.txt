@@ -9,7 +9,7 @@ Maintainer: koko
 -Switch to "Spark kernel" (Fully upstreamed to 4.14.352-openela latest release)
 - Enabled wallpaper zoom-in/out effects again
 - Increased brightness threshold for automatic refresh rate switching
-- Removed some unused things that consumes large amount of things and only for testing purposes
+- Removed some unused things that consumes large amount of memory and only for testing purposes
 - Fixed the issue where the enrolled fingerprints are lost after switching to guest user
 - App launch improvements
 - re-enabled kpti
