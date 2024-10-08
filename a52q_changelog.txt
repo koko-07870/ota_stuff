@@ -5,6 +5,7 @@ Maintainer: koko
 
 ====08 oct 2024====
 - Sync with source
+- Fixed Circle to Search
 -Switch to "Spark kernel" (Fully upstreamed to 4.14.352-openela latest release)
 - Enabled wallpaper zoom-in/out effects again
 - Increased brightness threshold for automatic refresh rate switching
