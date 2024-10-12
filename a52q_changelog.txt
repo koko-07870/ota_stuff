@@ -3,7 +3,22 @@ Build Type: Monthly
 Maintainer: koko
 ===================
 
-====08 oct 2024====
+=====12 oct 2024=====
+- October Security Patch
+- Updated Spark kernel
+- Powerhint improvements 
+Spark 1.1 :
+- Upstreamed to 4.14.353-openela
+- Scheduler improvements
+- undervolt gpu
+- silence several debugfs
+- Switched to Uclamp
+- Cache entry improvements
+- using lz4 for zram
+- updated lz4 module
+- several other improvements 
+
+=====08 oct 2024=====
 - Sync with source
 - Fixed Circle to Search
 -Switch to "Spark kernel" (Fully upstreamed to 4.14.352-openela latest release)
