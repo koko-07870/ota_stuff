@@ -7,6 +7,7 @@ Maintainer: koko
 - October Security Patch
 - Updated Spark kernel
 - Powerhint improvements 
+- fixed an issue where the media player in the quick settings used to lag when you clicked the play button sometimes.
 Spark 1.1 :
 - Upstreamed to 4.14.353-openela
 - Scheduler improvements
