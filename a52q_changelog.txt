@@ -1,4 +1,4 @@
-PixelOS Changelog for A52
+PixelOS Changelog for A52/A72
 Build Type: Monthly
 Maintainer: koko
 ===================
