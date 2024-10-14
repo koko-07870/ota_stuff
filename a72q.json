@@ -1,14 +1,14 @@
 {
   "error": false,
   "version": "fourteen",
-  "filename": "",
-  "datetime": 1728741625,
+  "filename": "PixelOS_a72q-14.0-20241014-0409.zip",
+  "datetime": 1728878845,
   "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-  "size": 2274781617,
-  "url": "",
-  "github_releases_url": "",
-  "filehash": "",
-  "id": "",
+  "size": 2272849638,
+  "url": "https://sourceforge.net/projects/pixelos-a52/files/A72/PixelOS_a72q-14.0-20241014-0409.zip/download",
+  "github_releases_url": "https://sourceforge.net/projects/pixelos-a52/files/A72/PixelOS_a72q-14.0-20241014-0409.zip/download",
+  "filehash": "4af041a54a59a977113e279b0c007976",
+  "id": "4af041a54a59a977113e279b0c007976",
   "maintainers": [
     {
       "main_maintainer": false,
@@ -17,5 +17,5 @@
     }
   ],
   "news_url": "https://t.me/SamsungGalaxyA72",
-  "forum_url": ""
+  "forum_url": "null"
 }  
