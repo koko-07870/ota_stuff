@@ -1,1 +1,3 @@
-
+DerpFest 15 for Galaxy A52
+Maintainer: koko
+Update type: Monthly
