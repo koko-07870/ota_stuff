@@ -1,6 +1,7 @@
 PixelOS for Galaxy A52 and Galaxy A72 4G
 Maintainer: koko
 Update type: Monthly
+Android: 15
 ======================
 
 _____ 12-Nov-2024 _____
