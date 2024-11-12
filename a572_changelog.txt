@@ -14,3 +14,4 @@ _____ 12-Nov-2024 _____
 - Set zram size to 4G
 - Fixed Play Integrity
 - Fixed status-bar padding
+- set pixel 9a default wallpaper
