@@ -7,6 +7,7 @@ Android: 15
 _____ 12-Nov-2024 _____
 
 - Android 15 BETA release
+- Some features from A14 isn't present yet
 - Nov security patch
 - Signed Build
 - Various kernel side improvements
