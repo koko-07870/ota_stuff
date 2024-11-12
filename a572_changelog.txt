@@ -1,0 +1,16 @@
+PixelOS for Galaxy A52 and Galaxy A72
+Maintainer: koko
+Update type: Monthly
+======================
+
+_____ 12-Nov-2024 _____
+
+- Android 15 BETA release
+- Signed Build
+- Various kernel side improvements
+- Several optimizations for better experience
+- switch to AIDL USB and Health HALs
+- Enabled Fs-Verity
+- Set zram size to 4G
+- Fixed Play Integrity
+- Fixed status-bar padding
