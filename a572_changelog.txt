@@ -9,7 +9,7 @@ _____ 22-Nov-2024 _____
 
 - Last BETA release
 - Enabled new status bar icons
-- Fixed widevine (now some straming apps like netflix will work fine)
+- Fixed widevine (now some streaming apps like netflix will work fine)
 - Optimized Status bar burn-in protection
 - Added padding for rounded corners
 - Now kernel is  compiled with latest clang
