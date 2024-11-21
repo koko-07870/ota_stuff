@@ -4,6 +4,27 @@ Update type: Monthly
 Android: 15
 ======================
 
+_____ 22-Nov-2024 _____
+
+- Last BETA release
+- Enabled new status bar icons
+- Fixed widevine (now some straming apps like netflix will work fine)
+- Optimized Status bar burn-in protection
+- Added padding for rounded corners
+- Now kernel is  compiled with latest clang
+- cache improvements
+- Removed some deprecated stuff
+- Updated vendor blobs to A525FXXS9FXJ1 for A52 and A725FXXU9FXH1 for A72
+- Disabled adaptive refresh rate for now
+- set volume steps to 30
+- sync some audio feature from coral
+- enabled option for full screen aspect-ratio
+- enabled prop to Adjusts stereo speaker according to device orientation.
+- Fixed lags and jitters on UI
+- Set dex2oat thread count and cpuset
+
+
+
 _____ 12-Nov-2024 _____
 
 - Android 15 BETA release
