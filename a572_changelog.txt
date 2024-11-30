@@ -3,7 +3,9 @@ Maintainer: koko
 Update type: Monthly
 Android: 15
 ======================
-NOTE : Clean Flash recommended if coming from Android 14
+NOTE :
+• Clean Flash recommended if coming from Android 14
+• Do not change the kernel included in the rom.
 
 _____ 22-Nov-2024 _____
 
