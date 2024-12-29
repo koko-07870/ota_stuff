@@ -1,4 +1,4 @@
-𝗣𝗶𝘅𝗲𝗹𝗢𝗦 for Galaxy A52 and Galaxy A72 4G
+𝗣𝗶𝘅𝗲𝗹𝗢𝗦 𝗳𝗼𝗿 𝗚𝗮𝗹𝗮𝘅𝘆 𝗔𝟱𝟮 & 𝗔𝟳𝟮 𝟰𝗚
 Maintainer: koko
 Update type: Monthly
 Android: 15
