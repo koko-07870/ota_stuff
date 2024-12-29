@@ -3,7 +3,7 @@ Maintainer: koko
 Update type: Monthly
 Android: 15
 ==========================================
-• 𝘿𝙤 𝙣𝙤𝙩 𝙘𝙝𝙖𝙣𝙜𝙚 𝙩𝙝𝙚 𝙠𝙚𝙧𝙣𝙚𝙡 𝙞𝙣𝙘𝙡𝙪𝙙𝙚𝙙 𝙞𝙣 𝙩𝙝𝙚 𝙧𝙤𝙢.
+• Do not change the kernel included in the rom.
 ==========================================
 
 
