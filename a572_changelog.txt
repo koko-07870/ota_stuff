@@ -6,6 +6,31 @@ Android: 15
 • Do not change the kernel included in the rom.
 ==========================================
 
+# 06-JAN-2025
+- Based on A15-QPR1 with december patch.
+- SDCARDFS Deprecation (needs a clean flash with pixelos recovery).
+- Added the new updater for OTA updates.
+- Several under-the-hood improvements for better performance
+- Implemented flashlight control settings
+- fixed adaptive refresh rate
+- switch to AIDL thermal and memtrack HAL
+- enable incremental fs feature
+- sync some display properties with codelinaro
+- Massive clean-up of init scripts
+- move to QCOM implementation for audio effects
+- improved status bar padding
+- fixed offline charging
+- improved brightness algorithm
+- inherit 6GB dalvik configs for 6GB and 8GB variants
+- improved UClamp boosting
+- added missing vibrations
+- Switch to common qti-perfd
+- improve playback performance for high frame-rate and high bitrate content 
+- enabled ELF checks
+- switched to new metadata encryption method and FBEv2
+- kernel: fixed few inconsistencies and added wpa3 support
+- Fixed Play Integrity
+
 
 _____ 22-Nov-2024 _____
 
