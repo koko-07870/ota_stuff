@@ -6,6 +6,16 @@ Android: 15
 • Do not change the kernel included in the rom.
 ==========================================
 
+# 10-JAN-2025
+- January Security Patch.
+- Updated vendor blobs to A525FXXSAFXJ2.
+- Updated ViPERFX to latest release.
+- Disabled VSync for CPU rendered apps.
+- kernel: improved zram driver.
+- kernel: Fixed higher cpu usage by rt tasks.
+- kernel: disabled trace_printk
+- Misc improvements
+
 # 06-JAN-2025
 - Based on A15-QPR1 with december patch.
 - SDCARDFS Deprecation (needs a clean flash with pixelos recovery).
