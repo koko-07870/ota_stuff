@@ -16,6 +16,7 @@ Android: 15
 - kernel: disabled trace_printk
 - Misc improvements
 
+
 # 06-JAN-2025
 - Based on A15-QPR1 with december patch.
 - SDCARDFS Deprecation (needs a clean flash with pixelos recovery).
