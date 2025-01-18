@@ -3,6 +3,7 @@ Maintainer: koko
 Update type: Monthly
 Android: 15
 ==========================================
+• ONLY USE PixelOS RECOVERY !!!
 • Do not change the kernel included in the rom.
 ==========================================
 
