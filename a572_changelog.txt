@@ -4,7 +4,7 @@ Update type: Monthly
 Android: 15
 ==========================================
 • ONLY USE PixelOS RECOVERY !!!
-• Do not change the kernel included in the rom.
+• Do not change the kernel included in the rom. (Because others may not have required stuff to boot)
 ==========================================
 
 # 17-JAN-2025
