@@ -7,6 +7,28 @@ Android: 15
 • Do not change the kernel included in the rom. (Don't report me any issues if you do so)
 ==========================================
 
+# 30-JAN-2025
+- source: Added per-app volume control feature
+- source: Added Quick Tap feature
+- More improvements to audio effects
+- Switched back to ViPERFX
+- Removed OMX HW audio codecs
+- Updated vendor blobs to A525FXXUAFXL2
+- Enabled back AOD to lock-screen animation
+- Disabled phantom process monitoring
+- Fixed recovery updater option
+- wifi: smarter decisions on whether to use a 2- or 5Ghz AP
+- wifi: Enable 2.4GHz channel bonding
+- wifi: Disable WLAN Firmware loggings
+- Increased adaptive refresh rate brightness thresholds
+- boosted performance during bootup
+- removed some non-existing props
+- Added a launcher icon for FlashControl app
+- Disable game default frame rate feature
+- Removed HighTouchPolling Rate
+- Kernel: improved some stuff with more debuggings nuked
+
+
 # 17-JAN-2025
 - Fixed weird tint issues on camera.
 - Sync with pixelos source.
