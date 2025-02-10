@@ -1,10 +1,10 @@
 𝗣𝗶𝘅𝗲𝗹𝗢𝗦 𝗳𝗼𝗿 𝗚𝗮𝗹𝗮𝘅𝘆 𝗔𝟱𝟮 & 𝗔𝟳𝟮 𝟰𝗚
 Maintainer: koko
-Update type: Monthly
+OTA Updates: Supported
 Android: 15
 ==========================================
 • ONLY USE PixelOS RECOVERY !!!
-• Do not change the kernel included in the rom. (Don't report me any issues if you do so)
+• Do not change the kernel included in the rom.
 ==========================================
 
 # 30-JAN-2025
