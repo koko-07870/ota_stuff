@@ -3,7 +3,7 @@ Maintainer: koko
 OTA Updates: Supported
 Android: 15
 __________________________________________
-• Use PixelOS Recovery to avoid issues !
+• Use PixelOS Recovery to avoid issues.
 • Do not change the kernel !
 __________________________________________
 
