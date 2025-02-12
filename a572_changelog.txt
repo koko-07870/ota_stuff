@@ -7,6 +7,18 @@ __________________________________________
 • Do not change the kernel !
 __________________________________________
 
+# 12-FEB-2025
+- source: merged February security patch  
+- Disabled wallpaper scaling on QS pulldown  
+- Tune up lockscreen status bar padding  
+- Added udfps launch boost  
+- Reduced udfps icon radius to match stock behaviour  
+- enabled ACS  
+- Speed up few stuff  
+- Killed the squiggly,sperm looking media progress bar  
+- Improved mic quality  
+
+
 # 30-JAN-2025
 - source: Added per-app volume control feature
 - source: Added Quick Tap feature
