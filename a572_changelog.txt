@@ -7,6 +7,10 @@ __________________________________________
 • Do not change the kernel !
 __________________________________________
 
+# HOTFIX Update (12-FEB)
+- Fixed a potential bug causing jitters on animations
+- Few more performance improvements
+
 # 12-FEB-2025
 - source: merged February security patch  
 - Disabled wallpaper scaling on QS pulldown  
