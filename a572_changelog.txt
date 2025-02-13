@@ -7,6 +7,12 @@ __________________________________________
 • Do not change the kernel !
 __________________________________________
 
+# 13-FEB-2025
+- Fixed video recording issues faced by some users.
+- Updater now has the option to fetch the play integrity fix apk from server.
+- Few more misc improvements (source side)
+- Sorry for back-to-back 3 updates XD
+
 # HOTFIX Update (12-FEB)
 - Fixed a potential bug causing jitters on animations sometimes 
 - Few more performance improvements
