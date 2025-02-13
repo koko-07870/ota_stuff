@@ -8,7 +8,7 @@ __________________________________________
 __________________________________________
 
 # HOTFIX Update (12-FEB)
-- Fixed a potential bug causing jitters on animations
+- Fixed a potential bug causing jitters on animations sometimes 
 - Few more performance improvements
 
 # 12-FEB-2025
