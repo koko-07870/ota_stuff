@@ -4,7 +4,7 @@ OTA Updates: Supported
 Android: 15
 __________________________________________
 • Use PixelOS Recovery to avoid issues.
-• Do not change the kernel !
+• Do not change the kernel.
 __________________________________________
 
 # 22-FEB-2025
