@@ -7,6 +7,19 @@ __________________________________________
 • Do not change the kernel.
 __________________________________________
 
+# 02-MAR-2025
+- sync with source
+- source: more aggressive statusbar/navbar burn-in protection
+- fixed red coloured flashlight QS tile
+- disabled gamma conversion for brightness slider
+- enabled SF caching property
+- switch to cortex-a76 as both cpu variant
+- import codec2 blobs from sunfish
+- optmimised UClamp tunings for efficiency and less heating
+- kernel: improved scheduler
+- various misc improvements
+
+
 # 22-FEB-2025
 -Disabled OMX service and switched to c2 codecs
 -More improved corners
