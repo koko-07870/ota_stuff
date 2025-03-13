@@ -1,10 +1,10 @@
 𝗣𝗶𝘅𝗲𝗹𝗢𝗦 𝗳𝗼𝗿 𝗚𝗮𝗹𝗮𝘅𝘆 𝗔𝟱𝟮 & 𝗔𝟳𝟮 𝟰𝗚
-Maintainer: koko
-OTA Updates: Supported
-Android: 15
-• Thanks to Simon1511 for device sources.
+𝗠𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝗲𝗿: koko
+𝗢𝗧𝗔 𝗨𝗽𝗱𝗮𝘁𝗲𝘀: Supported
+𝗔𝗻𝗱𝗿𝗼𝗶𝗱:15
+•Thanks to Simon1511 for device sources.
 __________________________________________
-• This rom doesn't support sdcardFS, so avoid using custom recovery/kernel.
+•This rom doesn't support sdcardFS, so avoid using custom recovery/kernel.
 __________________________________________
 
 # 02-MAR-2025
