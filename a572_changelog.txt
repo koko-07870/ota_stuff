@@ -1,21 +1,11 @@
-𝗣𝗶𝘅𝗲𝗹𝗢𝗦 𝗳𝗼𝗿 𝗚𝗮𝗹𝗮𝘅𝘆 𝗔𝟱𝟮 & 𝗔𝟳𝟮 𝟰𝗚
-𝗠𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝗲𝗿: koko-07870
+PixelOS Changelog for a52q & a72q
+Maintainer: koko-07870
 
-•Thanks to Simon1511 for device sources.
+Thanks to Simon1511 for device sources.
 __________________________________________
-•This rom doesn't support sdcardFS, so avoid using custom recovery/kernel.
+-This rom doesn't support sdcardFS, so avoid using custom recovery/kernel.
 __________________________________________
 
-# 18-MAR-2025  
--A15 QPR2 update with march security patch.  
--set 1 sec timeout for interaction boosts.  
--ELF checks are now fully passed.  
--limit amount of fingerprints to 3.  
--Update tetheroffload to version 1.1.  
--Disable ART and dex2oat debugging.  
--Implemented Volume Synchronizer to avoid distortion on high volumes.  
--Set BT controller voltage in the power profile.  
--kernel: improved memory management and sync few upstream changes.  
 
 # 02-MAR-2025
 - sync with source
