@@ -6,6 +6,9 @@ __________________________________________
 -This rom doesn't support sdcardFS, so avoid using custom recovery/kernel.
 __________________________________________
 
+# 30-MAR-2025
+- Android 15 QPR-2 stable update.
+
 
 # 02-MAR-2025
 - sync with source
