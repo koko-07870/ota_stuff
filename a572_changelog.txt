@@ -8,7 +8,7 @@ __________________________________________
 
 # 30-MAR-2025
 - Android 15 QPR-2 stable update.
-
+- Updated vendor blobs to A525FXXSBFYC1.
 
 # 02-MAR-2025
 - sync with source
