@@ -10,6 +10,7 @@ __________________________________________
 - Android 15 QPR-2 stable update.
 - Updated vendor blobs to A525FXXSBFYC1.
 
+
 # 02-MAR-2025
 - sync with source
 - source: more aggressive statusbar/navbar burn-in protection
