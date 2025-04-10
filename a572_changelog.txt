@@ -6,6 +6,11 @@ __________________________________________
 -This rom doesn't support sdcardFS, so avoid using custom recovery/kernel.
 __________________________________________
 
+# 10-APR-2025
+- Switched to new oliver kernel based on last source released by scamsung (A525FXXS8FXG3).  
+- Charging control is temporarily removed.  
+
+
 # 30-MAR-2025
 - Android 15 QPR-2 stable update.
 - Updated vendor blobs to A525FXXSBFYC1.
