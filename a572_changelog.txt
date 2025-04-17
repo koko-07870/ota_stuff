@@ -6,6 +6,15 @@ __________________________________________
 -This rom doesn't support sdcardFS, so avoid using custom recovery/kernel.
 __________________________________________
 
+# 17-APR-2025
+-April security patch.  
+-Added per-cpu thread decompression for erofs.  
+-Updated lz4 module to 1.9.4.  
+-Backported rcu from v5.4.
+-Updated certified props.
+-Lots of misc improvements.  
+
+
 # 10-APR-2025
 - Switched to new oliver kernel based on last source released by scamsung (A525FXXS8FXG3).  
 - Charging control is temporarily removed.  
