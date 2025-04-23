@@ -6,6 +6,13 @@ __________________________________________
 -This rom doesn't support sdcardFS, so avoid using custom recovery/kernel.
 __________________________________________
 
+# 23-APR-2025
+-Rebased kernel over latest samsung source (A525FXXSBFYC1).  
+-Improved cpu boosting scenarios.  
+-Charging control is back.  
+-Changelogs fetching on updater will work from now.  
+
+
 # 17-APR-2025
 -April security patch.  
 -Added per-cpu thread decompression for erofs.  
