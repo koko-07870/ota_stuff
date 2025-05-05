@@ -6,6 +6,10 @@ __________________________________________
 -This rom doesn't support sdcardFS, so avoid using custom recovery/kernel.
 __________________________________________
 
+# 05-May-2025
+-Sync with source and stability improvements.
+
+
 # 23-APR-2025
 -Rebased kernel over latest samsung source (A525FXXSBFYC1).  
 -Improved cpu boosting scenarios.  
