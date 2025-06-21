@@ -12,7 +12,7 @@ fastboot reboot recovery
 
 -While in recovery mode, factory reset (wipe/format data).
 
--Reboot to fastbootd and wipe the super partition using fastboot wipe-super super_empty.img
+-Reboot to fastbootd and wipe the super partition using "fastboot wipe-super super_empty.img"
 
 -Now reboot back to recovery and install the *.zip
 
