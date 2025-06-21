@@ -20,4 +20,4 @@ fastboot reboot recovery
 
 -Enjoy.
 
-(Button combination to reboot to fastboot: with device powered off, Volume down + Volume up + Power)
+(Button combination to boot to bootloader : with device powered off, Volume down + Volume up + Power)
