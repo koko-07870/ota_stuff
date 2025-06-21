@@ -1,7 +1,7 @@
 Installation:
 
 -Unlock bootloader
--Flash LineageOS init_boot, boot, recovery and vendor_boot images from bootloader (fastboot) mode, by running the following commands:
+-Flash LineageOS init_boot, boot, recovery and vendor_boot images from bootloader mode, by running the following commands:
 
 fastboot flash init_boot init_boot.img
 fastboot flash boot boot.img
