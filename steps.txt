@@ -19,3 +19,5 @@ fastboot reboot recovery
 -If you want to install any additional packages, such as GApps (https://wiki.lineageos.org/gapps),recovery will ask you to reboot again and flash that, or you can select no and boot to the system.
 
 -Enjoy.
+
+*Button combination to reboot to fastboot: with device powered off, Volume down + Volume up + Power.
