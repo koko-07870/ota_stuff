@@ -14,7 +14,7 @@ fastboot reboot recovery
 
 -Reboot to fastbootd (enter fastboot option on recovery) and wipe the super partition using "fastboot wipe-super super_empty.img"
 
--Now reboot back to recovery and install the *.zip
+-Now reboot back to recovery and sideload the *.zip
 
 -If you want to install any additional packages, such as GApps (https://wiki.lineageos.org/gapps),recovery will ask you to reboot again and flash that, or you can select no and boot to the system.
 
