@@ -1,6 +1,7 @@
 Installation:
 
--Unlock bootloader
+-Unlock bootloader (Detailed Steps: https://wiki.lineageos.org/devices/salami/install/#unlocking-the-bootloader)
+
 -Flash LineageOS init_boot, boot, vendor_boot and recovery images from bootloader mode, by running the following commands:
 (Button combination to boot to bootloader : with device powered off, Volume down + Volume up + Power)
 
