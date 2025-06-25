@@ -4,8 +4,6 @@ Installation:
 
 -Flash LineageOS init_boot, boot, vendor_boot and recovery images from bootloader mode, by running the following commands:
 
-(Button combination to boot to bootloader : with device powered off, Volume down + Volume up + Power)
-
 fastboot flash init_boot init_boot.img
 fastboot flash boot boot.img
 fastboot flash vendor_boot vendor_boot.img
@@ -22,3 +20,5 @@ fastboot reboot recovery
 -If you want to install any additional packages, such as GApps (https://wiki.lineageos.org/gapps),recovery will ask you to reboot again and flash that, or you can select no and boot to the system.
 
 -Enjoy.
+
+(Button combination to boot to bootloader : with device powered off, Volume down + Volume up + Power)
