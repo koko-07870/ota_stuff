@@ -1,0 +1,7 @@
+Clean flash for July 3rd build:
+
+-Reboot to recovery
+-Format data 
+-Enter FastbootD option from recovery and do "fastboot wipe-super super_empty.img" 
+-Reboot back to recovery and sideload the rom *.zip and gapps (if needed).
+-Reboot to system.
