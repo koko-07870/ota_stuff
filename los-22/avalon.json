@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "nightly",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
-      "version": "15.1"
+      "datetime": 1751624446,
+      "filename": "lineage-22.2-20250704-UNOFFICIAL-avalon.zip",
+      "id": "3355c0d93ddec8e0179674845759bc1b29b3df7da4036422f215f4defb348785",
+      "romtype": "UNOFFICIAL",
+      "size": 2384956452,
+      "url": "https://sourceforge.net/projects/avalon-dev/files/los-22/lineage-22.2-20250704-UNOFFICIAL-avalon.zip/download",
+      "version": "22.2"
     }
   ]
 }
