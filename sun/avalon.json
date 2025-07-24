@@ -1,9 +1,10 @@
 {
-    "version": "",
-    "date": "0",
+    "version": "varuna",
+    "date": "1753332345",
     "requiredDate": "0",
-    "url": "",
-    "filename": "",
-    "filesize": "0",
-    "md5": ""
+    "url": "https://sourceforge.net/projects/avalon-dev/files/sun/Sun-varuna-20250724-avalon-Unofficial.zip/download",
+    "id": "745bdb717362964d8e707cab9069b7bb67fdbd95",
+    "filename": "Sun-varuna-20250724-avalon-Unofficial.zip",
+    "filesize": "3092730596",
+    "md5": "a4e12b5b025eb1e9558bb5270c38d08c"
 }
